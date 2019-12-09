@@ -1,0 +1,32 @@
+{
+  "customers": [
+    {
+      "firstName": "Ostap",
+      "lastName": "Pryst",
+      "email": "pryst@gmail.com",
+      "mobile": "123456896",
+      "id": 1
+    },
+    {
+      "firstName": "Igor",
+      "lastName": "Pryst",
+      "email": "pryst@gmail.com",
+      "mobile": "123456896",
+      "id": 2
+    },
+    {
+      "firstName": "Oleksandr",
+      "lastName": "Pryst",
+      "email": "pryst@gmail.com",
+      "mobile": "123456896",
+      "id": 5
+    },
+    {
+      "firstName": "Andrian",
+      "lastName": "Pryst",
+      "email": "pryst@gmail.com",
+      "mobile": "123456896",
+      "id": 6
+    }
+  ]
+}
